@@ -1,0 +1,29 @@
+.btn-calcular{
+    width: 130px;
+    height: 30px;
+    background: white;
+    border-color: var(--secondary-color) ;
+    color:        var(--secondary-color);
+    border: 3px solid;
+    cursor: pointer;
+    transform: translateX(100%);
+    margin-bottom: 20px;
+}
+
+.btn-calcular:hover{
+    border-color: var(--tertiary-color) ;
+    color:        var(--tertiary-color);
+}
+
+.btn-eliminar{
+    color:        var(--quaternary-color);
+    cursor: pointer;
+}
+
+.btn-eliminar:hover{
+    font-weight: bold;
+}
+
+
+
+

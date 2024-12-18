@@ -1,2 +1,2 @@
 # calculatorJs
-prueba tecnica Siesa
+1): Abrir archivo index.html em cualquier navegador

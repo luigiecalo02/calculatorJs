@@ -1,0 +1,46 @@
+/* main.css */
+@import './components/calculadora.css';
+@import './components/resultado.css';
+@import './components/historial.css';
+
+/* componentes basicos */
+@import './components/basic/inputs.css';
+@import './components/basic/labels.css';
+@import './components/basic/selects.css';
+@import './components/basic/butoms.css';
+@import './components/basic/icons.css';
+
+:root {
+    --text-color: #727171da;
+    --font-family: sans-serif;
+    --primary-color: #8d8c8c8a;
+    --secondary-color: #000ba0;    
+    --tertiary-color: #7a81f1;
+    --quaternary-color:  #e61f09;  
+    --quinary-color:  #a56415;
+}
+
+body {
+    font-family: var(--font-family);
+    color: var(--text-color);
+    align-items: center;
+    margin: auto;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+    margin: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

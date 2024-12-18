@@ -1,0 +1,13 @@
+.resultado {
+    height: 78px;
+    border-color: var(--font-family);
+    border-radius: 13px;
+    border: 2px;
+    border-style: dotted;
+    display: grid;
+    align-items: center;
+    text-align: left;
+    padding-left: 25px;
+    color: var(--text-color);
+    margin-bottom: 30px;    
+}

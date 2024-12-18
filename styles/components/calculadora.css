@@ -1,0 +1,28 @@
+.contenedor {
+    height: 100vh; /* Ocupa el 100% de la altura de la pantalla */
+    width: 450px; /* Ocupa 450 px de largo de la pantalla */   
+    border-left:  10px solid  var(--primary-color); /* Borde Izquierdo  de 4px */
+    border-right: 10px solid  var(--primary-color); /* Borde derecho  de 4px */
+    padding: 15px; /* Espaciado interno */
+    margin: auto;
+}
+
+.titulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 30px;
+   
+}
+
+.descripcion{
+    text-align: left;
+    font-style: oblique;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.row{
+    margin-top: 30px;
+}
+

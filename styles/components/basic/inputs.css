@@ -1,0 +1,24 @@
+input{
+    height: 27px;
+    border-radius: 13px;
+    border: 2px solid;
+    border-color:var(--tertiary-color);
+    text-align: center;
+    color:var(--tertiary-color);
+    font-size: 16px;
+}
+
+input[type="number"] {
+    margin-left: 20px;
+    width: 70px;
+}
+
+input[type="text"] {
+    width: 80%;
+}
+
+input[type="radio"] {
+    transform: scale(2); /* Escalar el radio 2 veces */
+    margin: 0;/* Elimina el margen por defecto */
+    cursor: pointer;
+}

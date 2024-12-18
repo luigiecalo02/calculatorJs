@@ -1,0 +1,12 @@
+.select-operator{
+    width: 77px;
+    margin-left: 10px;
+    text-align: left;
+    height: 33px;
+    border-radius: 14px;
+    border: 2px solid;
+    border-color:var(--quaternary-color);
+    text-align: left;
+    color:var(--quaternary-color);
+    font-size: 24px;
+}

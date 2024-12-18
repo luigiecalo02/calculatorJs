@@ -1,0 +1,7 @@
+label {
+    display: flex;        /* Crea un contenedor flex */
+    align-items: center;  /* Alinea el radio y el texto al centro vertical */
+    gap: 12px;            /* Espacio entre el radio y el texto */
+    margin-bottom: 2px; 
+    cursor: pointer;
+}
