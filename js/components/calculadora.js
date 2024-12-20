@@ -48,5 +48,8 @@ function multiplicar(a, b) {
     return a * b;
 }
 function dividir(a, b) {
-    return b !== 0 ? a / b : 'Error: División entre cero';;
+    return b !== 0 ? a / b : 'Error: División entre cero';
 }
+
+const calculadora = {sumar,restar,multiplicar,dividir};
+export default calculadora;
