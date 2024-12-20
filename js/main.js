@@ -5,6 +5,9 @@ let buscarInput   = document.getElementById('num2');
 let lista = document.getElementById('lista-historial');
 let historial = [];
 
+
+
+
 function mostrarMensaje(message) {
     alert(message);
     return; // Detener la ejecución
@@ -30,8 +33,7 @@ function validarInput(input) {
         errorMessage = 'Ingrese un valor correcto para ' + input.title;
         input.focus(); // Coloca el foco en el campo con error
     };
-
-
+    
     if (errorMessage) {
         mostrarMensaje(errorMessage);
         return false; // Retorna true si hay un error
@@ -111,6 +113,8 @@ document.addEventListener('DOMContentLoaded', () => {
     botomCalcular.addEventListener('click', function (e) {
         registrarOperacion();
     });
+     num1Input.addEventListener('keydown', (event)=>{validarInputKey(event)}); 
+     num2Input.addEventListener('keydown', (event)=>{validarInputKey(event)}); 
 });
 
 alert(`Bienbenido a la práctica`);
