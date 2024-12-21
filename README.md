@@ -1,9 +1,16 @@
 ATENCION!
+JavaScript
+En la carpeta  paquete contiene una aplicación desarrollada en JavaScript que se puede ejecutar en un servidor local o abrir directamente a través de un enlace proporcionado
 
-para el arranque de la aplicaicon requiere una instalación simple en VS Code, no es un "servidor local" en el sentido tradicional, y es fácil de configurar:
+## Requisitos previos
 
-1): Instala la extensión Live Server en VS Code.
+1. **Editor de código:** [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
+2. **Extensiones para VSCode:** Instala la extensión `Live Server` desde el marketplace de VSCode.
+3. **Navegador web:** Un navegador moderno como Chrome, Firefox o Edge.
 
-2): Haz clic derecho en tu index.html y selecciona "Open with Live Server".
+---
 
-ver link de despliege : https://luigiecalo02.github.io/calculatorJs/
+# Pasos para ejecutar el proyecto
+
+# Opción 1: Usando un servidor local con VSCode
+# Opción 2: Usando este link": https://luigiecalo02.github.io/calculatorJs/
