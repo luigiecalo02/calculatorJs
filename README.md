@@ -1,6 +1,5 @@
-ATENCION!
-JavaScript
-En la carpeta  paquete contiene una aplicación desarrollada en JavaScript que se puede ejecutar en un servidor local o abrir directamente a través de un enlace proporcionado
+JavaScript!
+En la carpeta contiene una aplicación desarrollada en JavaScript que se puede ejecutar en un servidor local o abrir directamente a través de un enlace proporcionado
 
 ## Requisitos previos
 
