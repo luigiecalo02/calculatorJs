@@ -1,4 +1,4 @@
-JavaScript!
+# JavaScript!
 En la carpeta contiene una aplicación desarrollada en JavaScript que se puede ejecutar en un servidor local o abrir directamente a través de un enlace proporcionado
 
 ## Requisitos previos
@@ -9,7 +9,6 @@ En la carpeta contiene una aplicación desarrollada en JavaScript que se puede e
 
 ---
 
-# Pasos para ejecutar el proyecto
-
+## Pasos para ejecutar el proyecto
 # Opción 1: Usando un servidor local con VSCode
 # Opción 2: Usando este link": https://luigiecalo02.github.io/calculatorJs/
